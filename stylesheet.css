@@ -1,0 +1,26 @@
+nav {
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+  background-color: #ff9900;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+ 
+}
+
+li {
+  display: inline;
+  
+  
+}
+
+div {
+  background-color: darkblue;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  color: white;
+}
